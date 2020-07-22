@@ -34,7 +34,7 @@
 }
 .navbar
 {
-  background:#82589F;
+  background:#81ecec;
 }
 .navbar-toggler
 {
@@ -83,7 +83,7 @@
 }
 .carousel-caption .btn:hover
 {
-	background: linear-gradient(90deg,#82589F,#D6A2E8);
+	background:  linear-gradient(90deg,#0984e3,#48dbfb,#81ecec);
 	color: purple;
 	text-shadow: 1px 1px white;
 }

@@ -34,7 +34,7 @@
 }
 .navbar
 {
-  background:#82589F;
+  background:#81ecec;
 }
 .navbar-toggler
 {
@@ -93,7 +93,7 @@
   border-radius: 24px;
   margin-bottom: 10px;
   margin-top: 10px;
-  background: linear-gradient(90deg,#82589F,#D6A2E8);
+  background: linear-gradient(90deg,#0984e3,#48dbfb,#81ecec);
   text-align: center;
 }
 .box input[placeholder="123@gmail.com"]
@@ -101,7 +101,7 @@
   border-radius: 24px;
   margin-bottom: 10px;
   margin-top: 10px;
-  background: linear-gradient(90deg,#82589F,#D6A2E8);
+  background: linear-gradient(90deg,#0984e3,#48dbfb,#81ecec);
   text-align: center;
 }
 .box input[placeholder="Karnataka"]
@@ -109,7 +109,7 @@
   border-radius: 24px;
   margin-bottom: 10px;
   margin-top: 10px;
-  background: linear-gradient(90deg,#82589F,#D6A2E8);
+  background: linear-gradient(90deg,#0984e3,#48dbfb,#81ecec);
   text-align: center;
 }
 .box input[placeholder="Mangaluru"]
@@ -117,7 +117,7 @@
   border-radius: 24px;
   margin-bottom: 10px;
   margin-top: 10px;
-  background: linear-gradient(90deg,#82589F,#D6A2E8);
+  background: linear-gradient(90deg,#0984e3,#48dbfb,#81ecec);
   text-align: center;
 }
 .box h5

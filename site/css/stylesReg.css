@@ -35,7 +35,7 @@
 	margin-bottom: 10px;
 	border: 2px solid linear-gradient(90deg,#82589F,#D6A2E8);
 	border-radius: 10px;
-	background: linear-gradient(90deg,#82589F,#D6A2E8);
+	background: linear-gradient(90deg,#0984e3,#48dbfb,#81ecec);
 	color:white ;
 	outline: none;
 }
@@ -46,7 +46,7 @@
 	margin-right: 20px;
 	margin-bottom: 10px;
 	border-radius: 10px;
-	background: linear-gradient(90deg,#82589F,#D6A2E8);
+	background: linear-gradient(90deg,#0984e3,#48dbfb,#81ecec);
 	color:white ;
 	outline: none;
 }
@@ -57,7 +57,7 @@
 	margin-right: 20px;
 	margin-bottom: 10px;
 	border-radius: 10px;
-	background: linear-gradient(90deg,#82589F,#D6A2E8);
+	background: linear-gradient(90deg,#0984e3,#48dbfb,#81ecec);
 	color:white ;
 	outline: none;
 }
@@ -68,7 +68,7 @@
 	margin-right: 20px;
 	margin-bottom: 10px;
 	border-radius: 10px;
-	background: linear-gradient(90deg,#82589F,#D6A2E8);
+	background: linear-gradient(90deg,#0984e3,#48dbfb,#81ecec);
 	color:white ;
 	outline: none;
 }
@@ -79,7 +79,7 @@
 	margin-right: 20px;
 	margin-bottom: 10px;
 	border-radius: 10px;
-	background: linear-gradient(90deg,#82589F,#D6A2E8);
+	background: linear-gradient(90deg,#0984e3,#48dbfb,#81ecec);
 	color:white ;
 	font-weight: 500;
 	outline: none;
@@ -94,7 +94,7 @@
 }
 .login-container input[placeholder="First Name"]:focus, .login-container input[placeholder="Last Name"]:focus, .login-container input[placeholder="State"]:focus, .login-container input[placeholder="City"]:focus, .login-container input[placeholder="Email"]:focus
 {	
-	border-color: #2ecc71;
+	border-color:blue;
 }
 .btn
 {
